@@ -2,7 +2,6 @@
 
 🎓 **Computer Science Engineering Student (B.Tech)**  
 💻 **Aspiring Software Developer | Java | Web Development | DSA**  
-📍 Preferred Locations: Bengaluru & Hyderabad  
 
 ---
 
