@@ -36,7 +36,7 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 
 ### 🧰 Tools & Platforms
-- Git, GitHub, GitLab, Bitbucket
+- Git, GitHub
 - VS Code, Eclipse
 - Linux / Windows
 
@@ -80,7 +80,7 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ## 📜 Certifications
 
-- **Java Programming Basics** – W3Schools
+- **Java Programming Basics** – HackerRank
 - **Web Development Foundations** – W3Schools
 
 ---
