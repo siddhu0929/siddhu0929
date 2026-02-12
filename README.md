@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karanam Mohan Siddardha
+# Hi 👋, I'm  Siddardha
 
 🎓 **Computer Science Engineering Student (B.Tech)**  
 💻 **Aspiring Software Developer | Java | Web Development | DSA**  
@@ -27,17 +27,12 @@ I am focused on strengthening my core computer science skills and building meani
 - HTML5, CSS3
 - Bootstrap
 - React.js
-- Flask (Basics)
 - REST APIs
-- Web Scraping (BeautifulSoup)
-
 ### 📊 Computer Science Fundamentals
 - Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
-- SDLC (Agile / JIRA)
 
 ### 🧰 Tools & Platforms
-- Git, GitHub, GitLab, Bitbucket
 - VS Code, Eclipse
 - Linux / Windows
 
@@ -83,7 +78,7 @@ I am focused on strengthening my core computer science skills and building meani
 ## 📫 Connect With Me
 
 - 📧 Email: **siddhardha0929@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/karanam-mohan-siddardha-792768336/**  
 - 📱 Phone: **+91 9346642593**
 
 ---
