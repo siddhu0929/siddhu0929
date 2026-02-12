@@ -11,7 +11,7 @@
 I am a motivated and detail-oriented Computer Science student with strong fundamentals in **Java, SQL, Web Development, and Data Structures & Algorithms**.  
 I enjoy building clean, efficient applications and continuously improving my problem-solving skills through coding practice and real-world projects.
 
-I am actively seeking **internship opportunities** where I can apply my technical knowledge, contribute to impactful projects, and grow as a software professional.
+I am focused on strengthening my core computer science skills and building meaningful projects that reflect real-world problem solving.
 
 ---
 
@@ -43,37 +43,23 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ---
 
-## 💼 Internship Experience
-
-### 🌐 Web Development Intern  
-**Software Solutions** | *2 Months*
-
-- Developed responsive web pages using **HTML, CSS, and JavaScript**
-- Collaborated with developers to implement features and fix bugs
-- Used **Git** for version control and team collaboration
-- Ensured cross-browser compatibility and mobile responsiveness
-- Participated in daily stand-ups and project discussions
-- Improved UI/UX through creative design suggestions
-
----
-
 ## 📂 Projects
 
 ### 📌 Student Management System
 **Tech Stack:** Java, SQL (MySQL)
 
 - Built a CRUD-based application to manage student records
-- Integrated MySQL for secure data storage and retrieval
+- Integrated MySQL for secure and efficient data storage
 - Implemented validations and error handling
-- Designed a user-friendly interface for easy operations
+- Designed a user-friendly interface for smooth operations
 
 ---
 
 ### 📌 Personal Portfolio Website
 **Tech Stack:** HTML, CSS, JavaScript
 
-- Developed a fully responsive personal portfolio
-- Implemented modern UI design and smooth navigation
+- Developed a fully responsive personal portfolio website
+- Implemented modern UI design and intuitive navigation
 - Added interactivity using JavaScript
 - Optimized for performance and cross-browser compatibility
 
@@ -81,8 +67,8 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ## 📜 Certifications
 
-- **Java Programming Basics** – W3Schools
-- **Web Development Foundations** – W3Schools
+- **Java Programming Basics** – W3Schools  
+- **Web Development Foundations** – W3Schools  
 
 ---
 
@@ -96,9 +82,10 @@ I am actively seeking **internship opportunities** where I can apply my technica
 
 ## 📫 Connect With Me
 
-- 📧 Email: **siddhardha0929@gmail.com**
+- 📧 Email: **siddhardha0929@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/**  
 - 📱 Phone: **+91 9346642593**
 
 ---
 
-⭐ *“Code. Learn. Improve. Repeat.”*  
+⭐ *“Code. Learn. Improve. Repeat.”*
