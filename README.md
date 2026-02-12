@@ -1,94 +1,104 @@
+# Hi 👋, I'm Karanam Mohan Siddardha
 
-# Hi,I'm Siddardha
-
-Computer Science and Engineering undergraduate with a strong interest in software development and problem solving.  
-Focused on building solid fundamentals in programming, data structures, and web technologies through consistent learning and hands-on projects.
-
----
-
-## About
-
-I am a motivated Computer Science student with a disciplined approach to learning and improving my technical skills.  
-My interests lie in understanding how software systems are designed, implemented, and optimized.
-
-I enjoy:
-- Writing clean and readable code  
-- Solving algorithmic problems  
-- Building small but meaningful projects  
-- Continuously improving my technical depth  
-
-Currently, I am strengthening my knowledge in **Java, Data Structures & Algorithms, and Web Development**, while exploring real-world software engineering practices.
+🎓 **Computer Science Engineering Student (B.Tech)**  
+💻 **Aspiring Software Developer | Java | Web Development | DSA**  
+📍 Preferred Locations: Bengaluru & Hyderabad  
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-**Programming Languages**
-- Java  
-- Python  
-- JavaScript  
-- SQL  
+I am a motivated and detail-oriented Computer Science student with strong fundamentals in **Java, SQL, Web Development, and Data Structures & Algorithms**.  
+I enjoy building clean, efficient applications and continuously improving my problem-solving skills through coding practice and real-world projects.
 
-**Web Technologies**
-- HTML  
-- CSS  
-- Bootstrap  
-- React.js  
-
-**Core Concepts**
-- Data Structures and Algorithms  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Software Development Life Cycle  
-
-**Tools**
-- Git & GitHub  
-- VS Code, Eclipse  
-- Linux, Windows  
+I am actively seeking **internship opportunities** where I can apply my technical knowledge, contribute to impactful projects, and grow as a software professional.
 
 ---
 
-## Projects
+## 🛠️ Technical Skills
 
-### Student Management System  
-Java, MySQL  
+### 💻 Programming & Development
+- **Java**
+- **Python**
+- **JavaScript**
+- **SQL**
 
-A CRUD-based application designed to manage student records efficiently.  
-Focused on structured code, database integration, and proper validation to ensure reliability and maintainability.
+### 🌐 Web Technologies
+- HTML5, CSS3
+- Bootstrap
+- React.js
+- Flask (Basics)
+- REST APIs
+- Web Scraping (BeautifulSoup)
 
----
+### 📊 Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- SDLC (Agile / JIRA)
 
-### Personal Portfolio Website  
-HTML, CSS, JavaScript  
-
-A responsive personal website created to showcase skills and projects.  
-Emphasis on clean UI design, smooth navigation, and cross-browser compatibility.
-
----
-
-## Learning & Practice
-
-- Solved 150+ programming problems on coding platforms  
-- Regularly practicing Data Structures and Algorithms  
-- Improving Java and web development skills through projects and self-study  
-
----
-
-## Education
-
-**B.Tech – Computer Science and Engineering**  
-Vel Tech University, Chennai  
-CGPA: 8.6  
+### 🧰 Tools & Platforms
+- Git, GitHub, GitLab, Bitbucket
+- VS Code, Eclipse
+- Linux / Windows
 
 ---
 
-## Contact
+## 💼 Internship Experience
 
-Email: siddhardha0929@gmail.com  
+### 🌐 Web Development Intern  
+**Software Solutions** | *2 Months*
+
+- Developed responsive web pages using **HTML, CSS, and JavaScript**
+- Collaborated with developers to implement features and fix bugs
+- Used **Git** for version control and team collaboration
+- Ensured cross-browser compatibility and mobile responsiveness
+- Participated in daily stand-ups and project discussions
+- Improved UI/UX through creative design suggestions
 
 ---
 
-*Building strong fundamentals, one concept at a time.*
+## 📂 Projects
 
+### 📌 Student Management System
+**Tech Stack:** Java, SQL (MySQL)
 
-⭐ *“Consistency beats talent when talent doesn’t practice.”*  
+- Built a CRUD-based application to manage student records
+- Integrated MySQL for secure data storage and retrieval
+- Implemented validations and error handling
+- Designed a user-friendly interface for easy operations
+
+---
+
+### 📌 Personal Portfolio Website
+**Tech Stack:** HTML, CSS, JavaScript
+
+- Developed a fully responsive personal portfolio
+- Implemented modern UI design and smooth navigation
+- Added interactivity using JavaScript
+- Optimized for performance and cross-browser compatibility
+
+---
+
+## 📜 Certifications
+
+- **Java Programming Basics** – W3Schools
+- **Web Development Foundations** – W3Schools
+
+---
+
+## 🏆 Achievements & Activities
+
+- Solved **150+ coding problems** on **LeetCode** and **HackerRank**
+- Participated in **college-level hackathons**
+- Continuously improving skills in **Java & Web Development**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **siddhardha0929@gmail.com**
+- 📱 Phone: **+91 9346642593**
+
+---
+
+⭐ *“Code. Learn. Improve. Repeat.”*  
